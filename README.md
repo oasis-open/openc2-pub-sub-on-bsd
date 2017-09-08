@@ -45,7 +45,7 @@
 <p><b><a id="currentMaintainers">Current Maintainers of this Open Repository</a></b></p>
 
 <ul>
-<li><a href="mailto:danny.martinez@g2-inc.com">Danny Martinez</a>; GitHub ID: <a href="https://github.com/dmg2/">https://github.com/dmg2/</a>; WWW: <a href="http://www.g2-inc.com/">G2 Corporation</a></li>
+<li><a href="mailto:danny.martinez@g2-inc.com">Danny Martinez</a>; GitHub ID: <a href="https://github.com/dmg2">https://github.com/dmg2</a>; WWW: <a href="http://www.g2-inc.com/">G2 Corporation</a></li>
 <!--
 Danny Martinez https://github.com/dmg2 danny.martinez@g2-inc.com
 Danny Martinez <danny.martinez@g2-inc.com> -->
