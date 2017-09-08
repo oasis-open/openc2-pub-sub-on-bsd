@@ -21,7 +21,7 @@
 
 <p>The purpose of the openc2-pub-sub-on-bsd GitHub repository is to (a) demonstrate the implementation of OpenC2 in a pub-sub environment, and (b) to provision a codebase to enable other prototype development efforts.</p>
 
-<p>The implementation is written in C and developed on HardenedBSD. Though the C code is operating system agnostic, the Makefiles are BSD style Makefiles and will need modification to enable building on Linux.</p>
+<p>The implementation is written in C and developed on <a href="https://hardenedbsd.org/content/about">HardenedBSD</a>. Though the C code is operating system agnostic, the Makefiles are BSD style Makefiles and will need modification to enable building on Linux.</p>
 
 <p>The initial codebase is imported from the OpenC2 Forum's Github repository, facilitated by Danny Martinez (G2 Corporation).</p>
 
