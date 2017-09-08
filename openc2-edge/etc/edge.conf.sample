@@ -1,0 +1,16 @@
+edge {
+	plugin {
+		path: "/usr/lib/libedgeactiondeny.so"
+	}
+	plugin {
+		path: "/usr/lib/libedgeactionallow.so"
+	}
+	orchestrator {
+		ip: "127.0.0.1",
+		port: 5555
+	}
+	actuator {
+		type: "network.firewall",
+		id: "0"
+	}
+}
